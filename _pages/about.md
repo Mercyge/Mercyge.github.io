@@ -12,7 +12,7 @@ redirect_from:
 
 I'm a graduate student from [School of MSIS], [University of Pittsburgh](https://www.pitt.edu/). My research interest includes data modeling, machine learning and deep learning.
 
-You can find my CV here:  [XX's Curriculum Vitae](../assets/GeMa_CV.pdf).
+You can find my CV here:  [CV of Me](../assets/GeMa_CV.pdf).
 
 [Email](mailto:gem137@pitt.edu) / [Github](https://github.com/Mercyge)
 
